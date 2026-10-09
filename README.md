@@ -1,1 +1,1 @@
-Campus Life Smart Planner 
+Witwatersrand Campus Life Smart Planner 
